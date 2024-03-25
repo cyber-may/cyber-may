@@ -57,7 +57,7 @@ Fiz Design de Moda, mas prefiro dizer sou bordadeira. Fui professora de bordado 
   <a href="https://www.linkedin.com/in/mayara-lima-fernandes">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/may.fernandes">
+  <a href="https://tryhackme.com/p/cyber.may">
     <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" />        
   </a>
 </p>
